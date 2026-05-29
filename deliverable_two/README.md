@@ -1,8 +1,3 @@
-Here is your **complete, clean, GitHub-ready README.md** combining both projects in one place:
-
----
-
-```markdown
 # 🐍 Python Mini Projects: AI Game + Data Visualization
 
 This repository contains two Python projects built for learning and practice:
@@ -128,6 +123,19 @@ python matplotlib_sales_analysis.py
 
 ---
 
+## Output Files
+
+Generated plots are saved in:
+
+```
+/outputs/
+```
+
+* `exercise1_total_profit.png`
+* `exercise2_subplots.png`
+
+---
+
 # 🧠 Skills Demonstrated
 
 ## Programming
@@ -181,6 +189,4 @@ This project was built as part of a Python learning journey focusing on:
 * Visualization
 * Practical problem solving
 
-```
-- or :contentReference[oaicite:4]{index=4}
 ```
